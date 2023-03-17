@@ -1,4 +1,4 @@
-FROM codewithweeb/weebzone:stable
+FROM vigabots/heroku:stable
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
