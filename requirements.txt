@@ -1,5 +1,5 @@
 anytree
-git+https://github.com/VigaBots-Repos/amriac2mp.git
+git+https://github.com/VigaBots/amriac2mp.git
 asyncio
 beautifulsoup4
 cfscrape
@@ -21,11 +21,11 @@ pyrogram==2.0.66
 python-dotenv
 python-magic
 python-telegram-bot==13.15
-git+https://github.com/VigaBots-Repos/qmbittomrrent-ampi.git
+git+https://github.com/VigaBots/qmbittomrrent-ampi.git
 requests
 SecretStorage
 telegraph
 tenacity
 tgCrypto
 xattr
-git+https://github.com/VigaBots-Repos/ymt-dmlp.git
+git+https://github.com/VigaBots/ymt-dmlp.git
