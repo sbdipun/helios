@@ -37,7 +37,7 @@ try:
     if len(UPSTREAM_REPO) == 0:
        raise TypeError
 except:
-    UPSTREAM_REPO = "https://github.com/VigaBotsTrio12/helios-heroku"
+    UPSTREAM_REPO = "https://github.com/VigaBots-Repos/helios-heroku"
 try:
     if len(UPSTREAM_BRANCH) == 0:
        raise TypeError
