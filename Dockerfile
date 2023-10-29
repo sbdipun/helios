@@ -1,4 +1,4 @@
-FROM 5hojib/aeon:stable
+FROM anasty17/mltb:stable
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
